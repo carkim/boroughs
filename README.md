@@ -6,13 +6,13 @@
 User will be able to click on a borough and see:
 (Data from US Census Bureau)
 1. Mean Income
-2. Population
+2. Current Population
 3. Population Growth
 4. Rent 
 5. Marital Status
+6. Ethnic Demographics
 >
 Technologies utilized:
 1. JS
-2. Angular
 3. Express
 4. Node
